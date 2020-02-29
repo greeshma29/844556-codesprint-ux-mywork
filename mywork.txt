@@ -1,0 +1,9 @@
+My associate id:
+844556
+Other team members:
+844574,844507,844554,844583
+Team lead:
+844507
+My role in team:
+1.did placeappointment page with reactive forms
+2.did all routings
